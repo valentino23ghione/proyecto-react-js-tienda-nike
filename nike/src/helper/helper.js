@@ -6,7 +6,7 @@ export const arrayItems = [
         descripcion: 'Zapatilla airforce white',
         descLarga:'Las mejores zapatiilas importadas de USA.',
         precio:'25.000$',
-        foto: imagenes.proteinBSN,
+        foto: imagenes.AirforceWhite,
         stock:6,
         tipo:'zapatillas'     
     },
@@ -16,7 +16,7 @@ export const arrayItems = [
         descripcion: 'Zapatilla airforce black',
         descLarga:'Las mejores zapatiilas importadas de USA.',
         precio:'27.000$',
-        foto: imagenes.trueMassBSN,
+        foto: imagenes.Airforce6,
         stock:5,
         tipo:'zapatillas'    
     },
@@ -26,7 +26,7 @@ export const arrayItems = [
         descripcion: 'Zapatilla airforce red',
         descLarga:'Las mejores zapatiilas importadas de USA.',
         precio:'13500$',
-        foto: imagenes.creatinaBsn,
+        foto: imagenes.Airforce4,
         stock:5,
         tipo:'zapatillas'      
     },
@@ -36,7 +36,7 @@ export const arrayItems = [
         descripcion: 'Zapatilla airforce blue',
         descLarga:'Las mejores zapatiilas importadas de USA.',
         precio:'2700$',
-        foto: imagenes.preworkBsn,
+        foto: imagenes.Airforce3,
         stock:5,
         tipo:'zapatillas'     
     },
@@ -46,7 +46,7 @@ export const arrayItems = [
         descripcion: 'Zapatilla airforce full white',
         descLarga:'Las mejores zapatiilas importadas de USA.',
         precio:'27300$',
-        foto: imagenes.aminoBsn,
+        foto: imagenes.Airforce5,
         stock:5,
         tipo:'zapatillas'    
     },
@@ -56,7 +56,7 @@ export const arrayItems = [
         descripcion: 'Zapatilla sb dunk full white',
         descLarga:'Las mejores zapatiilas importadas de USA.',
         precio:'1700$',
-        foto: imagenes.shakerBsn,
+        foto: imagenes.NikeDunk2,
         stock:2,
         tipo:'zapatillas'     
     },
@@ -66,7 +66,7 @@ export const arrayItems = [
         descripcion: 'Zapatilla sb dunk full orange',
         descLarga:'Las mejores zapatiilas importadas de USA..',
         precio:'16000$',
-        foto: imagenes.proteinStar,
+        foto: imagenes.NikeDunk1,
         stock:6,
         tipo:'zapatillas'     
     },
